@@ -11,6 +11,8 @@ body {
 
 .container {
     background: hsl(216, 50%, 16%);
+    display: flex;
+    flex-direction: column;
     align-items: center;
     justify-items: center;
     text-align: center;
