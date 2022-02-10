@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background: hsl(217, 54%, 11%);
+    font-size: 18px;
+}
+
+.container {
+    background: hsl(216, 50%, 16%);
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    border: 1px solid;
+}
