@@ -10,11 +10,37 @@ body {
 }
 
 .container {
-    background: hsl(216, 50%, 16%);
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-items: center;
+    justify-content: center;
     text-align: center;
+    margin: 4rem 7rem;
+}
+
+.card {
+    width: 20rem;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.equilibrium-img {
+    padding: 1rem;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 15px;
     border: 1px solid;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
 }
