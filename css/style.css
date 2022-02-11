@@ -10,6 +10,7 @@ body {
     font-size: 18px;
     font-family: "Outfit", sans-serif;
     font-weight: 300;
+    line-height: 1.5;
 }
 
 .container {
@@ -21,11 +22,11 @@ body {
 }
 
 .card {
-    width: 20rem;
+    width: 19rem;
     margin: 0;
     padding: 0;
     background-color: hsl(216, 50%, 16%);
-    border-radius: 20px;
+    border-radius: 15px;
 }
 
 .equilibrium-img {
@@ -34,7 +35,7 @@ body {
 
 .card img {
     width: 100%;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .description {
@@ -57,7 +58,7 @@ body {
 .balance {
     display: flex;
     flex-wrap: nowrap;
-    margin: 1rem 0;
+    margin: 1rem 0 0.5rem;
 }
 
 .balance div:nth-of-type(1) {
@@ -66,21 +67,25 @@ body {
 }
 
 .balance div:nth-of-type(2) {
-    width: 60px;
-    text-align: center;
     font-size: 0.5rem;
     font-weight: 400;
-    margin: 0 2rem 0 0;
+    margin: 0 1rem 0 0;
 }
 
 .balance div:nth-of-type(3) {
-    margin: 0 0 0 4.3rem;
+    margin: 0 0 0 3.5rem;
 }
 
 .balance div:nth-of-type(4) {
     font-size: 1rem;
     color: hsl(215, 51%, 70%);
     margin: 0 0 0 0.5rem;
+}
+
+hr {
+    border-width: 1px 0 0 0;
+    border-color: hsl(215, 51%, 70%);
+    margin: 0 1.3rem;
 }
 
 .attribution {
