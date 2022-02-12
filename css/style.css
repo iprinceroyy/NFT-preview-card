@@ -36,12 +36,20 @@ body {
 /* equilibrium image */
 
 .equilibrium-img {
-    padding: 1.3rem;
+    margin: 1.3rem;
+}
+
+.equilibrium-img:hover {
+    background: url("../assets/images/icon-view.svg") no-repeat center;
 }
 
 .equilibrium-img img {
     width: 100%;
     border-radius: 10px;
+}
+
+.equilibrium-img img:hover {
+    visibility: hidden;
 }
 
 
@@ -105,7 +113,7 @@ hr {
 /*profile*/
 
 .author {
-    margin: 1rem 1.3rem;
+    margin: 1rem 1.3rem 1.5rem;
     display: flex;
     height: 35px;
 }
