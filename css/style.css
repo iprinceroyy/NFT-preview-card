@@ -40,7 +40,7 @@ body {
 }
 
 .equilibrium-img:hover {
-    background: url("../assets/images/icon-view.svg") no-repeat center;
+    background: hsl(215, 51%, 70%) url("../assets/images/icon-view.svg") no-repeat center;
 }
 
 .equilibrium-img img {
