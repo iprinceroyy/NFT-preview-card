@@ -13,6 +13,9 @@ body {
     line-height: 1.5;
 }
 
+
+/* parent of card */
+
 .container {
     display: flex;
     flex-direction: column;
@@ -29,6 +32,9 @@ body {
     border-radius: 15px;
 }
 
+
+/* equilibrium image */
+
 .equilibrium-img {
     padding: 1.3rem;
 }
@@ -37,6 +43,9 @@ body {
     width: 100%;
     border-radius: 10px;
 }
+
+
+/* description  */
 
 .description {
     padding: 0 1.3rem;
@@ -54,6 +63,9 @@ body {
     color: hsl(215, 51%, 70%);
     margin: 0.5rem 0 0;
 }
+
+
+/*balance*/
 
 .balance {
     display: flex;
@@ -88,6 +100,9 @@ hr {
     border-color: hsl(215, 51%, 70%);
     margin: 0 1.3rem;
 }
+
+
+/*profile*/
 
 .author {
     margin: 1rem 1.3rem;
