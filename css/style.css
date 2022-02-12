@@ -141,6 +141,12 @@ hr {
     text-decoration: none;
 }
 
+.author a:hover,
+a:active {
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
