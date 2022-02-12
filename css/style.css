@@ -35,21 +35,13 @@ body {
 
 /* equilibrium image */
 
-.equilibrium-img {
+.images {
     margin: 1.3rem;
 }
 
-.equilibrium-img:hover {
-    background: hsl(215, 51%, 70%) url("../assets/images/icon-view.svg") no-repeat center;
-}
-
-.equilibrium-img img {
+.images img {
     width: 100%;
     border-radius: 10px;
-}
-
-.equilibrium-img img:hover {
-    visibility: hidden;
 }
 
 
