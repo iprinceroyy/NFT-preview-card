@@ -74,8 +74,7 @@ body {
 }
 
 .view-img:hover {
-    background-image: url("../assets/images/icon-view.svg");
-    background-color: rgba(0, 255, 247, 0.5);
+    background: rgba(0, 255, 247, 0.5) url("../assets/images/icon-view.svg") no-repeat center;
     cursor: pointer;
 }
 

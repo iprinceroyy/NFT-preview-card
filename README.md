@@ -14,7 +14,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](my-mobile-view.jpg)
+![](my-active-state.jpg)
 
 ### Links
 
