@@ -178,6 +178,9 @@ hr {
     cursor: pointer;
 }
 
+
+/* footer */
+
 .attribution {
     font-size: 11px;
     text-align: center;
@@ -189,4 +192,5 @@ hr {
 
 .attribution a {
     color: hsl(178, 100%, 50%);
+    text-decoration: none;
 }
