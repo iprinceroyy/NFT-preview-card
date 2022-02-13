@@ -92,6 +92,11 @@ body {
     color: hsl(0, 0%, 100%);
 }
 
+.description>h1:hover {
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+
 .description>p {
     font-size: 1rem;
     font-weight: 300;
@@ -137,7 +142,7 @@ hr {
 }
 
 
-/*profile*/
+/* avatar */
 
 .avatar {
     margin: 1rem 1.3rem 1.5rem;
@@ -168,8 +173,7 @@ hr {
     text-decoration: none;
 }
 
-.avatar a:hover,
-a:active {
+.avatar a:hover {
     color: hsl(178, 100%, 50%);
     cursor: pointer;
 }
@@ -179,6 +183,10 @@ a:active {
     text-align: center;
 }
 
-.attribution a {
+.attribution {
     color: hsl(0, 0%, 100%);
+}
+
+.attribution a {
+    color: hsl(178, 100%, 50%);
 }
