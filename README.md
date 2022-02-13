@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](my-mobile-view.jpg)
-![](my-active-state.jpg)
+![](assets/design/my-mobile-view.jpg)
+![](assets/design/my-active-state.jpg)
 
 ### Links
 
