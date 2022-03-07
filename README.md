@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/iprinceroyy/NFT-preview-card)
--   Live Site URL: [Add live site URL here](https://nft-preview-prince.netlify.app/)
+-   Solution URL: [Solution URL here](https://github.com/iprinceroyy/NFT-preview-card)
+-   Live Site URL: [Live site URL here](https://nft-preview-prince.netlify.app/)
 
 ### Built with
 
